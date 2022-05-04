@@ -3,8 +3,9 @@
 ## What is a directive?
 Directives are classes that add additional behavior to elements in a Angular applications. Different types of Angular directives are:
 
-### Components - Used with a template. This type of directive is the most common directive type. Components are the main building block for Angular applications. Each component consists of:
-
+### Components
+Used with a template. This type of directive is the most common directive type. Components are the main building block for Angular applications. Each component consists of:
+ 
 An HTML template that declares what renders on the page.
 A Typescript class that defines behavior
 A CSS selector that defines how the component is used in a template.
