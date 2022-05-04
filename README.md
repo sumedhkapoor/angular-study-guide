@@ -1,5 +1,14 @@
 # Angular Study Guide
 
+## Angular Building Blocks
+
+### Modules
+
+### Services
+
+### Components
+
+
 ## What is a directive?
 Directives are classes that add additional behavior to elements in a Angular applications. Different types of Angular directives are:
 
