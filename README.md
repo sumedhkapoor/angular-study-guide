@@ -3,13 +3,13 @@
 ## Angular Building Blocks
 
 ### Modules
-Module contain components
+Module contain components. In Angular.json we specify the main file which contains the Module to start with.
 
 ### Services
 Services are used to make http service calls to backend to fetch data.
 
 ### Components
-Components provide some functionality. They consist of template that has the view, and Typescript class containing the business logic.
+Components provide some functionality. They consist of template that has the view, and Typescript class containing the business logic. AppComponent is the default bootstraped component.
 
 ## What is a directive?
 Directives are classes that add additional behavior to elements in a Angular applications. Different types of Angular directives are:
